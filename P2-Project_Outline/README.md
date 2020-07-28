@@ -19,9 +19,9 @@ SteamAPI Integration: (Ideally) will be able to pull game information from the S
 Add games to database: If above is too difficult or time-intensive, users will be able to add games to the database themselves.
 
 ### Technologies
-C#
-ASP.NET
-MySQL
+C#,
+ASP.NET,
+MySQL,
 SteamAPI
 
 ### What I'll Have to Learn
